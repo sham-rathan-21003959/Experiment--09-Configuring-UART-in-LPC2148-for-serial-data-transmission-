@@ -6,7 +6,7 @@ Name :	S.Sham Rathan
 Roll no: 212221230093
 
 
-Date of experiment : 24.11.2022
+Date of experiment : 
 
 
 ### Configuring UART in LPC2148 for serial data transmission 
