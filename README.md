@@ -18,8 +18,7 @@ Proteus ISIS professional suite, Kiel μ vision 5 Development environment
 ### Theory: 
 	
 	The UART Protocol uses only two wires (or pins in a device like microcontroller) to transmit the data. In that, one is for transmitting the data and the pin is called TX pin in the device. The other pin is used to receive the data and is called RX pin.As UART is a serial communication, the data is transmitted in a series of packets. Usually, a packet consists of 4 parts: a start bit, the actual data, a parity bit and stop bits. The following image shows a typical structure of the data packet in UART.
-	
-![image](https://user-images.githubusercontent.com/36288975/203727146-383ce4b4-677b-44c3-bb13-a9e203950760.png)
+
 ### FIGURE -01 UART PACKET 
 
 
